@@ -1,2 +1,6 @@
 this is first commit
+
 this is second feature1
+
+this is from feature 2
+
